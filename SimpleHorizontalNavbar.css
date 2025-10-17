@@ -1,4 +1,4 @@
-﻿
+
 body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
@@ -11,14 +11,6 @@ body {
     background-color: #303030;
     text-align: center;
 }
-
-
-.nav-links {
-    margin: 0;
-    padding: 0;
-    list-style-type: none;
-}
-
 
 .nav-item {
 
